@@ -43,8 +43,6 @@ Click the Build and run button in the Build settings and run the scene.
 
 The Sphere after touching the cube it will disappeared and Press the key [R] the redircting to the new scene that is page2.
 
-
-
 ## Program:
 ```python
 using System.Collections;
@@ -77,10 +75,10 @@ public class PlayerController : MonoBehaviour
 ```
 ## Output:
 ### After the Ball hit the cube:
-<img src="https://user-images.githubusercontent.com/75235022/174820302-92b26481-cc53-42b2-ba5f-157dd33fa4f7.png" width="600">
-<img src="https://user-images.githubusercontent.com/75235022/174820425-cfb5837b-ea72-4e3d-b0ad-a4328eed88e2.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235022/174820302-92b26481-cc53-42b2-ba5f-157dd33fa4f7.png" width="500">
+<img src="https://user-images.githubusercontent.com/75235022/174820425-cfb5837b-ea72-4e3d-b0ad-a4328eed88e2.png" width="500">
 ### Redirected scene:
-<img src="https://user-images.githubusercontent.com/75235022/174820470-0aea5d6b-d9e3-4899-a1c3-33c2095b73a8.png" width="600">
+<img src="https://user-images.githubusercontent.com/75235022/174820470-0aea5d6b-d9e3-4899-a1c3-33c2095b73a8.png" width="500">
 
 ## Result:
 Thus the above C# coding is successfully redirecting the scene in the unity engine.
